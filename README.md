@@ -1,6 +1,9 @@
 C-Based-Operating-System
 ========================
 
+Note: In it's current state the OS won't work. It needs the simulator which I will upload soon. 
+
+
 Has all the capabilities of a CP/M-like OS. 
 
 This readme assumes that you are running on a system that can run .jar files. 
