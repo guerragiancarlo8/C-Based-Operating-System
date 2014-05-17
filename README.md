@@ -1,7 +1,7 @@
 C-Based-Operating-System
 ========================
 
-Note: In it's current state the OS won't work. It needs the simulator which I will upload soon. 
+Note: In it's current state the OS won't work. Please visit blackware.org in order to attain the Computer Simulator which can run this OS.
 
 
 Has all the capabilities of a CP/M-like OS. 
